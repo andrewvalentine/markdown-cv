@@ -6,7 +6,7 @@ title: Andrew Valentine's CV
 macOS Specialist
 
 <div id="webaddress">
-<a href="andrew.r.valentine@gmail.com">andrew.r.valentine@gmail.com</a>
+<a href="mailto:andrew.r.valentine@gmail.com">andrew.r.valentine@gmail.com</a>
 | <a href="http://andrewvalentine.co">andrewvalentine.co</a>
 </div>
 
