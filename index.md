@@ -7,7 +7,7 @@ macOS Specialist
 
 <div id="webaddress">
 <a href="andrew.r.valentine@gmail.com">andrew.r.valentine@gmail.com</a>
-| <a href="https://defaultswrite.co">Blog</a>
+| <a href="http://andrewvalentine.co">andrewvalentine.co</a>
 </div>
 
 ## Currently
@@ -73,8 +73,6 @@ Introduction to Linux/Unix
 *2011, Amsys Training*
 
 Mac OS X Support Essentials 10.6
-
-
 
 <!-- ### Footer
 
