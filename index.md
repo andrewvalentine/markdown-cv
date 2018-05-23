@@ -16,63 +16,54 @@ IT Support Specialist, End-user Computing Team, University of Bristol
 
 ## Previous employment
 
-February 2013 - November 2017, IT Support Officer, University of Bristol
+`2013 - 2017`
+IT Support Officer, University of Bristol
 
-March 2011 - February 2013, Computing Services Supporter, University of Bath
+`2011 - 2013`
+Computing Services Supporter, University of Bath
 
-February 2010 - February 2011, User Technology Support Assistant, Canterbury Christ Church University
+`2010 - 2011`
+User Technology Support Assistant, Canterbury Christ Church University
 
 ## Education
 
 `2003 - 2006`
-__University of Wales, Bangor__
-English Literature with Film Studies BA
+University of Wales, Bangor, English Literature with Film Studies BA
 
 `2001 - 2003`
-__Lingfield Notre Dame Sixth Form Centre__
-4 x A-Levels
+Lingfield Notre Dame Sixth Form Centre, 4 x A-Levels
 
 `2001`
-__Lingfield Notre Dame Secondary School__
-8 x GCSEs
+Lingfield Notre Dame Secondary School, 8 x GCSEs
 
-## Awards
+## Further learning and development
 
-_2018, Vue Cinema, Leicester Square, London_
+`2018`
+Mac Admins and Developers Conference 2018, Vue Cinema, Leicester Square, London
 
-Mac Admins and Developers Conference 2018
+`2017`
+macOS Support Essentials 10.12, Western Computing, Bristol
 
-_2017, Western Computing, Bristol_
+`2016`
+PyConUK 2016, Cardiff City Hall, Cardiff
 
-macOS Support Essentials 10.12
+`2016`
+Mac Admins and Developers Conference 2016, St James's Theatre, London
 
-_2016, Cardiff City Hall, Cardiff_
+`2013 - 2014`
+Introduction to HPC, Introduction to Scripting with Perl, Make, Python in Scientific Computing, Advanced Computing Research Centre, University of Bristol
 
-PyConUK 2016
+`2012`
+Introduction to PowerShell, Verhoef Training
 
-_2016, St James Theatre, London_
+`2011 - 2012`
+ITIL Foundation, ITIL
 
-Mac Admins and Developers Conference 2016
+`2011`
+Introduction to Linux/Unix, Quanta Training
 
-_2013 - 2014, Advanced Computing Research Centre, University of Bristol_
-
-Introduction to HPC, Introduction to Scripting with Perl, Make, Python in Scientific Computing
-
-*2012, Verhoef Training*
-
-Introduction to PowerShell
-
-*2011 - 2012, ITIL*
-
-ITIL Foundation
-
-*2011, Quanta Training*
-
-Introduction to Linux/Unix
-
-*2011, Amsys Training*
-
-Mac OS X Support Essentials 10.6
+`2011`
+Mac OS X Support Essentials 10.6, Amsys Training
 
 <!-- ### Footer
 
