@@ -1,91 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Valentine's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Valentine
+macOS Specialist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andrew.r.valentine@gmail.com">andrew.r.valentine@gmail.com</a>
+| <a href="https://defaultswrite.co">Blog</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+IT Support Specialist, End-user Computing Team, University of Bristol
 
-### Specialized in
+## Previous employment
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+February 2013 - November 2017, IT Support Officer, University of Bristol
 
+March 2011 - February 2013, Computing Services Supporter, University of Bath
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+February 2010 - February 2011, User Technology Support Assistant, Canterbury Christ Church University
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2003 - 2006`
+__University of Wales, Bangor__
+English Literature with Film Studies BA
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2001 - 2003`
+__Lingfield Notre Dame Sixth Form Centre__
+4 x A-Levels
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2001`
+__Lingfield Notre Dame Secondary School__
+8 x GCSEs
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+_2018, Vue Cinema, Leicester Square, London_
 
-Associate, *French Academy of Science*, Paris, France
+Mac Admins and Developers Conference 2018
 
+_2017, Western Computing, Bristol_
 
+macOS Support Essentials 10.12
 
-## Publications
+_2016, Cardiff City Hall, Cardiff_
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+PyConUK 2016
 
-### Journals
+_2016, St James Theatre, London_
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Mac Admins and Developers Conference 2016
 
-`1669`
-Lectiones opticæ.
+_2013 - 2014, Advanced Computing Research Centre, University of Bristol_
 
-etc. etc. etc.
+Introduction to HPC, Introduction to Scripting with Perl, Make, Python in Scientific Computing
 
-### Patents
+*2012, Verhoef Training*
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Introduction to PowerShell
 
+*2011 - 2012, ITIL*
 
-## Occupation
+ITIL Foundation
 
-`1600`
-__Royal Mint__, London
+*2011, Quanta Training*
 
-- Warden
-- Minted coins
+Introduction to Linux/Unix
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+*2011, Amsys Training*
+
+Mac OS X Support Essentials 10.6
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
