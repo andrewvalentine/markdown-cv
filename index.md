@@ -10,20 +10,27 @@ macOS Specialist
 | <a href="http://andrewvalentine.co">andrewvalentine.co</a>
 </div>
 
+## In brief
+
+Dedicated and conscientious, with a history of IT Support in Higher Education. Technical specialist in macOS support, responsible for deploying and managing a distributed client base with a combination of closed and open source tools. Substantial additional experience of desktop and server side setup and support for Windows and Linux systems. Experience of working in a professional environment with Docker, Django, VCS, Confluence and scripting in Bash and Python.
+
 ## Currently
 
 IT Support Specialist, End-user Computing Team, University of Bristol
 
-## Previous employment
+## Previously
 
 `2013 - 2017`
-IT Support Officer, University of Bristol
+IT Support Officer, Faculty of Engineering, University of Bristol
 
 `2011 - 2013`
-Computing Services Supporter, University of Bath
+Computing Services Supporter, Faculty of Science, University of Bath
 
 `2010 - 2011`
 User Technology Support Assistant, Canterbury Christ Church University
+
+`2008 - 2010`
+User Technology Administrator, Canterbury Christ Church University
 
 ## Education
 
