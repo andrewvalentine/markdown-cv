@@ -16,7 +16,7 @@ Dedicated and conscientious, with a history of IT Support in Higher Education. T
 
 ## Currently
 
-IT Support Specialist, End-user Computing Team, University of Bristol
+IT Support Specialist, End-User Computing Team, University of Bristol
 
 ## Previously
 
@@ -44,6 +44,9 @@ Lingfield Notre Dame Sixth Form Centre, 4 x A-Levels
 Lingfield Notre Dame Secondary School, 8 x GCSEs
 
 ## Further learning and development
+
+`2018`
+macOS Support Essentials 10.13, Western Computing, Bristol
 
 `2018`
 Mac Admins and Developers Conference 2018, Vue Cinema, Leicester Square, London
