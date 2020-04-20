@@ -7,7 +7,7 @@ macOS Specialist
 
 <div id="webaddress">
 <a href="mailto:andrew.r.valentine@gmail.com">andrew.r.valentine@gmail.com</a>
-| <a href="http://andrewvalentine.co">andrewvalentine.co</a>
+| <a href="http://andrewvalentine.github.io">andrewvalentine.github.io</a>
 </div>
 
 ## In brief
