@@ -45,7 +45,7 @@ Lingfield Notre Dame Secondary School, 8 x GCSEs
 
 ## Further learning and development
 
-'2019'
+`2019`
 macOS Support Essentials 10.14, Western Computing, Bristol
 
 `2018`
